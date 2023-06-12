@@ -3,6 +3,9 @@
 	"colors": {
 		"editor.background": "#181818",
 		"editor.foreground": "#eeffff",
+		"editor.selectionBackground": "#484848",
+		"editor.selectionHighlightBackground": "#484848",
+		"editorLineNumber.activeForeground": "#ffdd33",
 
 		"statusBar.background": "#101010",
 		"statusBar.noFolderBackground": "#282828",
